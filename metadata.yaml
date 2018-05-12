@@ -1,0 +1,35 @@
+_repo: Johnny-Ludlow-Sixth-Series_40963
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40963-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wood, Henry, Mrs.
+    aliases:
+    - Price, Ellen
+    - Wood, Mrs. Henry
+    - Wood, Ellen Price
+    - Ludlow, Johnny
+    birthdate: 1814
+    deathdate: 1887
+    gutenberg_agent_id: '1177'
+    url: http://www.gutenberg.org/2009/agents/1177
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_Wood_%28author%29
+description: ''
+gutenberg_issued: '2012-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40963'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+tableOfContents: The mystery at number seven -- Caramel cottage -- A tragedy -- In
+  later years -- The silent chimes.
+title: Johnny Ludlow, Sixth Series
+url: http://www.gutenberg.org/ebooks/40963
